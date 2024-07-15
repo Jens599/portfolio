@@ -12,7 +12,7 @@ const App = () => {
           <p>Hi,</p>
           I'm{" "}
           <span className="inline-block bg-gradient-to-r from-red-500 to-orange-400 bg-clip-text font-extrabold text-transparent">
-            Jenish Shrestha {/* <BlinkingCursor /> */}
+            Jenish Shrestha <BlinkingCursor />
           </span>
         </div>
         <div className="space-y-8">
