@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply min-h-dvh overscroll-none bg-zinc-950 bg-gradient-to-r from-zinc-950 via-zinc-950 to-purple-950 text-white;
+}
